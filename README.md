@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TharwatElsyed
 - 👀 I’m interested in data analysis and data science
--  I’m interested in automation and data flow 
-- 🌱 I’m currently enrolled in Udacity data analysis nanodegree 
+-  I’m working  in automation and data flow 
 - 📫 How to reach me 
 - by email : Tharwat.elsayed2000@gmail.com
 - or phone : +201061803236
